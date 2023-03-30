@@ -69,5 +69,6 @@ function testClaseEdificio() {
 function main() {
   testClaseEdificio();
   console.log("Realice un cambio");
+  consol.log("aca hice otro cambio, hace pull rey")
 }
 main();
